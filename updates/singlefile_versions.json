@@ -1,0 +1,23 @@
+[
+    {
+        "type": "Single File",
+        "version": "1.0",
+        "update-type": "beta",
+        "update-desc": "Public testing for new cdn",
+        "released": "9/02/2026"
+    },
+    {
+        "type": "Single File",
+        "version": "0.9",
+        "update-type": "beta",
+        "update-desc": "Fixed search bug",
+        "released": "7/24/2026"
+    },
+    {
+        "type": "Single File",
+        "version": "0.8",
+        "update-type": "beta",
+        "update-desc": "First public single file test",
+        "released": "6/23/2026"
+    }
+]
