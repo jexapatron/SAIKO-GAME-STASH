@@ -2,6 +2,6 @@
 
 -- Fork for funny haha
 
-<h1>サイコ - Saiko Game Stash</h1>
+<h1>サイコ - SAIKO STASH</h1>
 
 A fast, portable and customizable collection of tools + more!
