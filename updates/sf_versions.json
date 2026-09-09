@@ -1,0 +1,26 @@
+[
+    {
+        "type": "sf",
+        "ver": "1.0",
+        "upd-type": "BETA",
+        "upd-desc": "Public testing for new cdn.",
+        "upd-log": "https://...",
+        "rel": "09/02/2026"
+    },
+    {
+        "type": "sf",
+        "ver": "0.9",
+        "upd-type": "ALPHA",
+        "upd-desc": "Fixed search bug.",
+        "upd-log": "https://...",
+        "rel": "07/24/2026"
+    },
+    {
+        "type": "sf",
+        "ver": "0.8",
+        "upd-type": "ALPHA",
+        "upd-desc": "First public single file test.",
+        "upd-log": "https://...",
+        "rel": "06/23/2026"
+    }
+]
